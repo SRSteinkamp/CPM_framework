@@ -62,9 +62,6 @@ for i=1:length(s_names)
     pC.(s_names{i}) = spC.(s_names{i});
 end
     
-    
-
-
 
 %options
 if isempty(observation_function)
